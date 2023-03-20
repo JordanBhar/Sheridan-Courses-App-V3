@@ -4,7 +4,9 @@
 
 [Version 1](https://www.figma.com/proto/Oq2bPvYqjSYrdcc8l7WRQG/Sheridan-Courses-App?page-id=0%3A1&node-id=2%3A6&viewport=542%2C197%2C0.34&scaling=scale-down&starting-point-node-id=2%3A6)
 
-[Version 2 (Current)](https://www.figma.com/proto/cmOG60szXWnjaILaI7kx6N/Sheridan-Courses-App-Version-2?page-id=0%3A1&node-id=29%3A170&viewport=542%2C233%2C0.34&scaling=scale-down&starting-point-node-id=2%3A6)
+[Version 2](https://www.figma.com/proto/cmOG60szXWnjaILaI7kx6N/Sheridan-Courses-App-Version-2?page-id=0%3A1&node-id=29%3A170&viewport=542%2C233%2C0.34&scaling=scale-down&starting-point-node-id=2%3A6)
+
+[Version 3 (Current)](https://www.figma.com/proto/gZpoP1BCXdmxh2AIIMNvTO/Sheridan-Courses-App-Version-3?page-id=0%3A1&node-id=107-24&viewport=245%2C228%2C0.14&scaling=scale-down&starting-point-node-id=107%3A24)
 
 ## About
 
