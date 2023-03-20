@@ -49,9 +49,14 @@ this is a figma prototype of a redesign of the Sheridan Slate application. which
 
 | <img src="https://user-images.githubusercontent.com/48815489/219976970-73ba8f7e-ce7a-4ac1-98a8-a934b6e88c4c.jpg" width="350" height="450"> | <img src="https://user-images.githubusercontent.com/48815489/219976971-4e5d70a7-5937-4771-9ee9-2f48ff05b46a.jpg" width="350" height="450">
 
+
+<img src="https://user-images.githubusercontent.com/48815489/226228408-1ee96568-706a-425f-aa61-e6c82f12a07b.png" width="350" height="450"> | <img src="https://user-images.githubusercontent.com/48815489/226228525-559706e1-3396-42f7-9983-a9c186f5d401.png" width="350" height="450">
+
+
+
 ## Links 
 
 Youtube-Demo : [DEMO](https://youtu.be/U4xagKYm3e4)
 
-Figma Public URL : [URL](https://www.figma.com/proto/cmOG60szXWnjaILaI7kx6N/Sheridan-Courses-App-Version-2?page-id=0%3A1&node-id=29%3A170&viewport=542%2C233%2C0.34&scaling=scale-down&starting-point-node-id=2%3A6)
+Figma Public URL : [URL](https://www.figma.com/proto/gZpoP1BCXdmxh2AIIMNvTO/Sheridan-Courses-App-Version-3?page-id=0%3A1&node-id=107-24&viewport=245%2C228%2C0.14&scaling=scale-down&starting-point-node-id=107%3A24)
 
